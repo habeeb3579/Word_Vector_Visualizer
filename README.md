@@ -31,6 +31,12 @@ Run the app:
 
         docker run -p 8501:8501 word-embedding-app
 
+If port 8501 is unavailable on your local machine, run:
+
+         docker run -p <PORT>:8501 word-embedding-app
+
+where PORT is your preferred port.
+
 The application will be accessible at [http://localhost:8501](http://localhost:8501).
 
 
