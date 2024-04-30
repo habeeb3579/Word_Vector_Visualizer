@@ -27,7 +27,7 @@ Ensure you have Docker installed on your system.
 Build the Docker image:
 
         docker build -t word-embedding-app:v1 .
-
+Run the app:
         docker run -p 8501:8501 word-embedding-app
 
 The application will be accessible at [http://localhost:8501](http://localhost:8501).
