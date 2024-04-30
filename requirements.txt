@@ -1,0 +1,6 @@
+numpy==1.23.5
+plotly-express==0.4.1
+scikit_learn==1.4.2
+spacy==3.7.4
+streamlit==1.33.0
+umap_learn==0.5.6
