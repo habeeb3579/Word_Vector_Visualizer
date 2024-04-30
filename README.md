@@ -14,10 +14,10 @@ This project demonstrates how to visualize word embeddings using SpaCy, Streamli
 
 1. Clone the repository:
 
-        git clone https://github.com/habeeb3579/word-vector-embedding.git
+        git clone https://github.com/habeeb3579/Word-Vector-Visualizer.git
 2. Cd into the repo
 
-        cd word-vector-embedding
+        cd Word-Vector-Visualizer
 
 
 ## Usage
