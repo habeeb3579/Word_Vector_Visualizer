@@ -29,11 +29,11 @@ Build the Docker image:
         docker build -t word-embedding-app:v1 .
 Run the app:
 
-        docker run -p 8501:8501 word-embedding-app
+        docker run -p 8501:8501 word-embedding-app:v1
 
 If port 8501 is unavailable on your local machine, run:
 
-         docker run -p <PORT>:8501 word-embedding-app
+         docker run -p <PORT>:8501 word-embedding-app:v1
 
 where PORT is your preferred port.
 
